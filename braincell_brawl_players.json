@@ -1,0 +1,16 @@
+{
+  "byx": {
+    "name": "byx",
+    "lives": -2,
+    "score": 0,
+    "catnip": 0,
+    "achievements": []
+  },
+  "sd": {
+    "name": "sd",
+    "lives": 3,
+    "score": 0,
+    "catnip": 0,
+    "achievements": []
+  }
+}
